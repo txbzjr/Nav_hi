@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+    <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        <CheckBox
+                android:text="隐藏导航栏"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content" android:id="@+id/s_Nv_cb"/>
+        <CheckBox
+                android:text="隐藏状态栏"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content" android:id="@+id/s_Status_cb"/>
+    </LinearLayout>
+    <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        <Button
+                android:text="确定"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content" android:id="@+id/btok"/>
+        <Button
+                android:text="取消"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content" android:id="@+id/btcancle"/>
+        <Button
+                android:text="恢复默认"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content" android:id="@+id/btdefault"/>
+    </LinearLayout>
+</LinearLayout>
