@@ -1,4 +1,4 @@
-<h4 align="center">(place the logo here in the following updates)</h4>
+<h4 align="center">(place the app icon here in the following updates)</h4>
 <h2 align="center"><b>Nav_hi</b></h2>
 
 
@@ -8,7 +8,7 @@
 ## Known Issues
 - Every time setting the navigation bar to be hiden in an app will deactivate the configuration of the last app
 
-# I have a question or want to report a bug
+## I have a question or want to report a bug
 If you think you have encontered a legitimate bug, please go to the Issues page to see if your issue has been reported. 
 And if it does not exist, create a new issue report. 
 
