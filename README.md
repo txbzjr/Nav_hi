@@ -13,7 +13,8 @@ If you think you have encontered a legitimate bug, please go to the Issues page 
 And if it does not exist, create a new issue report. Other than that, creating an issue for feature requests is welcome as well.
 
 ## Contribution
-Nav_hi is still in beta status, so any kind of help is welcome! 
+Nav_hi is still in beta status, so any kind of help is welcome! Please create an issue if you would like to help translate/fix bugs/
+add new functions for this project.
 
 ## License
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
